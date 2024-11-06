@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.7.0] - 2024/11/06
+### Update
+- Core dependencies.
 
 ## [0.4.1] - 2018/05/31
 ### Fix
