@@ -1,9 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [0.7.0] - 2024/11/06
+## [0.6.2] - 2024/11/06
 ### Update
-- Core dependencies.
+- updated webpack and babel dependencies to latest versions
 
 ## [0.4.1] - 2018/05/31
 ### Fix
